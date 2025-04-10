@@ -1,3 +1,7 @@
+Name: Tran Trung Nguyen 
+Email: trantrungnguyen2109@gmail.com 
+Phone: 0707209448 
+GitHub: https://github.com/trannguyen2109
 
 ## Project: LaptopShop
 -- Description: Developed a personal full-stack web application following the MVC pattern to sell laptops and accessories (currently featuring only laptops), including product management and user authentication.
