@@ -8,7 +8,7 @@
                         <div class="col-lg-3">
                             <a href="#">
                                 <h1 class="text-primary mb-0">Laptopshop</h1>
-                                <p class="text-secondary mb-0">@NguyenDuy</p>
+                                <p class="text-secondary mb-0">@Nguyenit</p>
                             </a>
                         </div>
                     </div>
@@ -36,8 +36,8 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="footer-item">
                             <h4 class="text-light mb-3">Contact</h4>
-                            <p>Author:Nguyễn Đức Duy</p>
-                            <p>Website: <a href="#"> duynguyen.vn</a></p>
+                            <p>Author:Trần Trung Nguyên</p>
+                            <p>Website: <a href="#"> Nguyenit.vn</a></p>
                         </div>
                     </div>
                 </div>
@@ -50,8 +50,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        <span class="text-light"><a href="#"><i class="fas fa-copyright text-light me-2"></i>Nguyễn
-                                Duy</a>, All right
+                        <span class="text-light"><a href="#"><i class="fas fa-copyright text-light me-2"></i>Nguyenit
+                                </a>, All right
                             reserved.</span>
                     </div>
                     <div class="col-md-6 my-auto text-center text-md-end text-white">
